@@ -1,0 +1,3 @@
+{
+  "app": "${GRADLE_COMMAND-./gradlew} -S run"
+}
